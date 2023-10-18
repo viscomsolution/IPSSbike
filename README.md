@@ -1,6 +1,8 @@
 # IPSSbike - module đọc biển số xe máy Việt Nam
 
-![](Image/ipssbike2.jpg)
+### Chúng tôi có module mới có thể đọc được biển số xe máy và xe hơi: https://github.com/viscomsolution/IPSS
+
+![](Image/ipssbike4.jpg)
 
 ## Tính năng
 - Đọc biển số xe máy 4 số và 5 số
